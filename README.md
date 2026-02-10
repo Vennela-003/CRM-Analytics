@@ -17,9 +17,6 @@ This project provides a 360° view of customer interactions using multiple tools
 
 ---
 
-## 📂 Project Structure
----
-
 ## 📊 Key Analysis Performed  
 
 ### ✔ Lead Analysis  
