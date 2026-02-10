@@ -1,5 +1,4 @@
 # 📊 CRM Analytics Project  
-### End-to-End Data Analysis using Excel, SQL, Power BI & Tableau
 
 ## 📌 Project Overview  
 The CRM Analytics Project aims to analyze customer data, leads, and opportunities to help businesses improve their sales performance, customer engagement, and conversion rates.
